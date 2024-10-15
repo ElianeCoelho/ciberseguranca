@@ -1,0 +1,106 @@
+/* Estilo global */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Estilo do header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #FFD700;
+}
+
+/* Estilo do main e layout de colunas */
+main {
+    display: flex;
+    margin: 20px;
+}
+
+section {
+    width: 70%;
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+section h2 {
+    font-size: 24px;
+}
+
+section p {
+    line-height: 1.6;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+/* Estilo do aside */
+aside {
+    width: 30%;
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+aside h3 {
+    font-size: 20px;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin-bottom: 10px;
+}
+
+aside ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+aside ul li a:hover {
+    color: #FF4500;
+}
+
+/* Estilo do footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
