@@ -1,6 +1,6 @@
 # Site: Segurança Cibernética
 
-Este projeto foi desenvolvido como parte da **Atividade 4** da trilha **Full Stack** do projeto **Codifica da +Prati**. O objetivo é criar um site informativo sobre **Segurança Cibernética**, abordando conceitos fundamentais e fornecendo links úteis para aprendizado e consulta.
+Este projeto foi desenvolvido como parte da **Atividade 3** da trilha **Full Stack** do projeto **Codifica da +Prati**. O objetivo é criar um site informativo sobre **Segurança Cibernética**, abordando conceitos fundamentais e fornecendo links úteis para aprendizado e consulta.
 
 ## 📋 Estrutura do Projeto
 
